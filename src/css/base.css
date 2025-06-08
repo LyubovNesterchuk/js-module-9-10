@@ -20,8 +20,6 @@ section {
   align-items: center;
   padding: 10px;
   gap: 10px;
-  /* background-color: #32becb; */
-  color: rgba(255, 255, 255);
 }
 
 .task-list-item-btn {
