@@ -30,22 +30,7 @@
       <p>Текст</p>
   </li>
 */
-// import { form } from './js/refs.js';
-// import { createTask } from './js/tasks.js';
-// form.addEventListener('submit', createTask);
 
-// import { form } from './js/refs.js';
-// import { initTasks, createTask, setupDeleteListener } from './js/tasks.js';
-
-// document.addEventListener('DOMContentLoaded', () => {
-//   initTasks(); // Завантаження з localStorage
-//   form.addEventListener('submit', createTask); // Додавання
-//   setupDeleteListener(); // Видалення
-// });
-
-// import { initTheme } from './js/theme-switcher.js';
-// //document.addEventListener("DOMContentLoaded", initTheme);
-// initTheme();
 
 import { refs } from './js/refs.js';
 import { addTask, deleteTask, getTasks, setTasks } from './js/tasks.js';
